@@ -18,7 +18,7 @@ public class BdayTestOne {
 		int bdayCount;			// Our counter for three birthdays
 		int bdayValue;
 
-		used = new int[366];	// Initially, all entries are false.
+		used = new int[365];	// Initially, all entries are false.
 
 		count = 0;
 		bdayCount = 0;
