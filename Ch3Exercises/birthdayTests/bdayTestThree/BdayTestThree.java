@@ -14,7 +14,7 @@ public class BdayTestThree {
 		int count;
 
 		used = new int[365];
-		count = 0;		// Initialize for the process o
+		count = 0;		
 		daysRecorded = 0;
 
 		while (true) {
